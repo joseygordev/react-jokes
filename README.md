@@ -15,7 +15,7 @@ This project features.
 
 ## Getting started
 
-1. Clone this repo using `https://joseygordev@bitbucket.org/joseygordev/react-jokes.git`
+1. Clone this repo using `git clone https://github.com/joseygordev/react-jokes.git`
 2. Move to the appropriate directory: `cd react-jokes`.<br />
 3. Run `yarn` or `npm install` to install dependencies.<br />
 4. Run `yarn start` to see the example app at `http://localhost:8080`.

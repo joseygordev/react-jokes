@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Should return the Button component 1`] = `
+<button
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  style={
+    Object {
+      "background": "#8a8a8a",
+      "borderRadius": 5,
+      "color": "#FFFFFF",
+      "cursor": "pointer",
+      "fontSize": "1rem",
+      "fontWeight": "bold",
+      "lineHeight": 1.4,
+      "margin": "11.2px 0px",
+      "padding": "8px 24px",
+      "textTransform": "uppercase",
+      "width": "100%",
+    }
+  }
+  type="button"
+>
+  My button
+</button>
+`;

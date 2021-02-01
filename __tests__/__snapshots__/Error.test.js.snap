@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error Should return the Error component 1`] = `
+<h3
+  style={
+    Object {
+      "color": "#000",
+      "lineHeight": 1.6,
+      "textAlign": "center",
+    }
+  }
+>
+  Something went wrong :( 
+  <br />
+   please try again
+</h3>
+`;

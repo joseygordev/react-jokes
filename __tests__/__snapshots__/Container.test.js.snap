@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container Should return the Container component 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "flex-start",
+      "display": "flex",
+      "fontFamily": "Open Sans, sans-serif",
+      "height": "100vh",
+      "justifyContent": "center",
+      "margin": "auto",
+      "maxWidth": 980,
+      "width": "75%",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "space-evenly",
+        "paddingBottom": 32,
+        "width": "100%",
+      }
+    }
+  >
+    Content
+  </div>
+</div>
+`;

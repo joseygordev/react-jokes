@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader Should return the Loader component 1`] = `
+<div
+  className="css-mh7cz-BallBeat"
+>
+  <div />
+  <div />
+  <div />
+</div>
+`;

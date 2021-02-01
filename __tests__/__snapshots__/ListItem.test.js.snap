@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem Should return the ListItem component without any param 1`] = `
+<div
+  style={
+    Object {
+      "background": "#FFFFFF",
+      "borderLeft": "1rem solid #8a8a8a",
+      "borderRadius": "0.5rem",
+      "boxShadow": "0.125rem 0.125rem 0.25rem rgba(0, 0, 0, 0.25)",
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "space-between",
+      "margin": "8px auto",
+      "padding": 16,
+      "width": "100%",
+    }
+  }
+>
+  
+  
+</div>
+`;
+
+exports[`ListItem Should return the ListItem component without onClick param 1`] = `
+<div
+  style={
+    Object {
+      "background": "#FFFFFF",
+      "borderLeft": "1rem solid #8a8a8a",
+      "borderRadius": "0.5rem",
+      "boxShadow": "0.125rem 0.125rem 0.25rem rgba(0, 0, 0, 0.25)",
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "space-between",
+      "margin": "8px auto",
+      "padding": 16,
+      "width": "100%",
+    }
+  }
+>
+  
+  
+</div>
+`;

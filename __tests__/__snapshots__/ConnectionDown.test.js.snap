@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ConnectionDown Should return the ConnectionDown component 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "red",
+      "display": "flex",
+      "height": 60,
+      "justifyContent": "center",
+      "left": 0,
+      "top": 0,
+      "width": "100%",
+    }
+  }
+>
+  <p
+    style={
+      Object {
+        "color": "#FFFFFF",
+        "fontSize": "1rem",
+        "fontWeight": "bold",
+        "padding": 11.2,
+        "textAlign": "center",
+      }
+    }
+  >
+    You are disconnected, we are doing our best to keep your experience pleasant :)
+  </p>
+</div>
+`;
